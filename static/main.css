@@ -1,0 +1,12 @@
+.jumbotron {
+    padding: 80px 50px 10px;
+    border-radius: 0px;
+}
+
+.jumbotron * {
+    color: #000;
+}
+
+.jumbotron {
+    background-color: #e3fbf5 !important;
+}
